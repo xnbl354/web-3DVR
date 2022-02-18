@@ -6,8 +6,6 @@ Simple Website 3D-VR, Built using hTML-CSS-JAVASCRIPT-AJAX
 
 Demo App : http://3d.super-vinos.com/
 
-Rest-Api : http://3d.super-vinos.com/
-
 # Installation
 
 Requirements
